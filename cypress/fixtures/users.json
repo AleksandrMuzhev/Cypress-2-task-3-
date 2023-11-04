@@ -1,0 +1,23 @@
+{
+  "userNew": {
+    "id": 100,
+      "username": "ivan100",
+      "firstName": "Ivan",
+      "lastName": "Ivanov",
+      "email": "ivanov100@gmail.com",
+      "password": "qwerty",
+      "phone": "+79129998877",
+      "userStatus": 1
+  },
+
+  "userUpdate": {
+    "id": 300,
+      "username": "alex300",
+      "firstName": "Aleksandr",
+      "lastName": "Makedonskiy",
+      "email": "alex300@gmail.com",
+      "password": "qwerty123",
+      "phone": "+79025550055",
+      "userStatus": 5
+  }
+}
